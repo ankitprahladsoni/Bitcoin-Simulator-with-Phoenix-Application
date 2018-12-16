@@ -1,0 +1,12 @@
+
+  <div class="jumbotron">
+  
+  <label id="status" class="lead">Ready</label>
+  <label id="timer" class="lead"></label>
+  <button class="btn btn-primary" id="start-timer">Start Process</button>
+  
+</div>
+<canvas id="myChart"></canvas>
+<canvas id="myChart2"></canvas>
+<%# <p style="font-size: 9px;" id="wallet"></p> %>
+    
